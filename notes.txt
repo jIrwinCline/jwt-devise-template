@@ -1,3 +1,5 @@
 general reference: https://medium.com/@mazik.wyry/rails-5-api-jwt-setup-in-minutes-using-devise-71670fd4ed03
 
 for testing: https://medium.com/@amliving/my-rails-rspec-set-up-6451269847f9
+
+fix for not having register routes show up: https://stackoverflow.com/questions/7899684/devise-not-generating-registration-paths-routes
