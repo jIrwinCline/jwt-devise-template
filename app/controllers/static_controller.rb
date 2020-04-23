@@ -1,5 +1,7 @@
+
 class StaticController < ApplicationController
+    Dotenv.load
     def home
-        render json: { status: "It's Working" }
+        render json: { status: ENV["SECRET"] }
     end
 end
