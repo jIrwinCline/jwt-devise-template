@@ -1,1 +1,3 @@
-https://medium.com/@mazik.wyry/rails-5-api-jwt-setup-in-minutes-using-devise-71670fd4ed03
+general reference: https://medium.com/@mazik.wyry/rails-5-api-jwt-setup-in-minutes-using-devise-71670fd4ed03
+
+for testing: https://medium.com/@amliving/my-rails-rspec-set-up-6451269847f9
