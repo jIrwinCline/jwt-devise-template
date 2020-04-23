@@ -17,7 +17,8 @@ gem 'puma', '~> 4.1'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'devise-jwt'
-
+gem 'devise'
+gem 'dotenv'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
